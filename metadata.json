@@ -1,0 +1,6 @@
+{
+  "name": "Creaciones Ya&Fe | Regalos y Artículos Personalizados",
+  "description": "Taller artesanal de regalos y artículos personalizados en San Antonio, TX. Bordados finos, arreglos con globos burbuja, ramos eternos, sublimación y personalizador interactivo en vivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
